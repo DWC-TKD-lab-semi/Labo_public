@@ -12,12 +12,12 @@
   <img src="https://img.shields.io/badge/Language-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
 </p>
 
-同志社女子大学 生活科学部 食物栄養科学科 [臨床病態学研究室](https://daisukegaotian.github.io/labo_settings)<br>のGithubリポジトリです <br>
+同志社女子大学 生活科学部 食物栄養科学科 (管理栄養士専攻) [臨床病態学研究室](https://daisukegaotian.github.io/labo_settings)<br>のGithubリポジトリです <br>
 本リポジトリは、原則として一般公開されています。
 
-- 各学生向けの教育用資料は、[別HP](https://daisukegaotian.github.io/2026_Labo_semi/education.html)等に公開しています。
+- 各学年(解剖生理学・臨床病態学・大学院向けの授業や実習)の資料は、[こちら](https://dwc-tkd-lab-semi.github.io/Labo_contents/assign.html)等に公開しています。
 
-- ゼミ課題に関しては、materials/[のディレクトリ以下](https://github.com/DaisukeGaotian/Labo_public/tree/main/materials/2026)や`Labo_20**students_**`(年度別privateリポジトリ)で管理しています。
+- ゼミ課題に関しては、`materials/`[以下](https://github.com/DWC-TKD-lab-semi/Labo_public/tree/main/materials/2026)や`Labo_20**students_**`(年度別privateリポジトリ)で管理しています。
 
 > [!NOTE]
 > このリポジトリは、研究室のゼミ運営・学習資料・成果物を外部に公開するためのものです。
@@ -36,7 +36,7 @@
 また、Markdown形式（R Markdown / Quarto）を用いてコードの説明や分析結果の解釈を文書化する方法も実践的に学びます。
 
 > [!TIP]
-> コマンドラインの操作経験があるかどうかで、AI時代を生き抜くスキルの幅が大きく変わります。将来的には、AIエージェントとのコミュニケーションがよりスムーズになり、効率的にタスクをこなすことができるようになります。
+> コマンドラインの操作経験があるかどうかで、AI時代を生き抜くスキルの幅が大きく変わります。将来的には、AIエージェントとのコミュニケーションがよりスムーズになり、効率的にタスクをこなすことができるようになります。なんでもやってみてください。
 
 ## 4年生 後半：RStudio / Positron等（＋GitHub Copilot Chat）
 前半で身につけた基礎をもとに、オープン情報・機密情報に関するデータ分析の応用や、研究論文の内容を理解して実装する[^2]力を養い、**卒論発表**に臨みます。
